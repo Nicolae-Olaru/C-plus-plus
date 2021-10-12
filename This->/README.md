@@ -1,2 +1,2 @@
-How to use "This->" in c++ 
-Come usare "This->" in c++
+English : How to use "This->" in c++ 
+Italian : Come usare "This->" in c++
