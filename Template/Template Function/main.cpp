@@ -11,7 +11,7 @@ void f(T a,Q b)
 int main()
 {
     //char p='A';
-    float p=2.5;
+    int p=2.5;
     int q=7;
     f(p,q);
 
